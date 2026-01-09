@@ -2,7 +2,7 @@ Tuần 1
 Báo cáo thực hành – Tuần 1
 Thông tin sinh viên
 
-Họ và tên: Dương Tùng Lâm
+Họ và tên: Nguyễn Huyền Anh
 
 Môn học: Thiết kế phần mềm
 
