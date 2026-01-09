@@ -1,7 +1,8 @@
 Tuan-1
 Báo cáo thực hành – Tuần 1
 Thông tin sinh viên
-Họ và tên: Dương Tùng Lâm
+Họ và tên: Nguyễn Huyền Anh
+
 Môn học: thiết kế phần mềm
 Tuần thực hành: Tuần 1
 Lớp: 23IT4
